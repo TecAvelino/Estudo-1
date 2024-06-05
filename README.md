@@ -4,4 +4,4 @@ Eu sou o Fábio , professor de Tecnologia e Inovação.
 Estou aqui para acompanhar vocês.
 vamos lá
 vai o link para voces acessarem:
-[linkedin(hhtps...........)
+[linkedin](hhtps...........)
